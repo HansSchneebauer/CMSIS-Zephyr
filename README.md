@@ -24,8 +24,7 @@ and run the image on the target hardware.
 
 ### Switch to a different board
 
-If you want to run the examples on a different board, simply edit the `Examples/Blinky/blinky.csolution.yml` or
-`Examples/Threads/threads.csolution.yml` files:
+If you want to run the examples on a different board, simply edit the `zephyr.csolution.yml` file:
 
 ```yml
   # List the packs that define the device and/or board.
